@@ -5,12 +5,12 @@
   "license": "MIT",
   "main": "gaia-button.js",
   "devDependencies": {
-    "babel": "^5.2.12",
+    "babel": "^5.5.6",
     "bower": "^1.4.1",
-    "browserify": "^10.1.0",
-    "jshint": "^2.7.0",
-    "karma": "^0.12.31",
-    "karma-firefox-launcher": "^0.1.4",
+    "browserify": "^10.2.4",
+    "jshint": "^2.8.0",
+    "karma": "^0.12.36",
+    "karma-firefox-launcher": "^0.1.6",
     "karma-mocha": "^0.1.10",
     "karma-sinon-chai": "^0.3.0",
     "mozilla-download": "^1.0.5"

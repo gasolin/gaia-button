@@ -21,9 +21,10 @@
     "base": "gaia-components/base",
     "gaia-fonts": "gaia-components/gaia-fonts",
     "gaia-icons": "gaia-components/gaia-icons",
-    "gaia-theme": "gaia-components/gaia-theme"
+    "gaia-theme": "gaia-components/gaia-theme",
+    "l20n": "~1.0.2"
   },
   "dependencies": {
-    "gaia-component": "gaia-components/gaia-component#~0.3.6"
+    "gaia-component": "gaia-components/gaia-component#^0.3.7"
   }
 }
