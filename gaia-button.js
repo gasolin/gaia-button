@@ -147,6 +147,7 @@ module.exports = component.register('gaia-button', {
     .inner {
       position: relative;
       height: 100%;
+      display: inline-block;
     }
 
     /** Background
